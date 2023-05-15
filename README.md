@@ -1,5 +1,5 @@
 # Twitterwho-
-# a great free speach blog platform; who needs twitter. lol
+# a great free speech blog platform; who needs twitter. lol
 
 https://github.com/Minthare/Twitterwho-/assets/119153351/4515b602-338f-4c3e-ad55-23313f876680
 ## Acceptance Criteria
